@@ -1,0 +1,7 @@
+RECOMENDAÇÕES DE SEGURANÇA NA NUVEM
+
+1. Usar senhas fortes e difíceis de descobrir
+
+2. Ativar a autenticação de dois fatores para proteger a conta
+
+3. Compartilhar arquivos somente com pessoas autorizadas
